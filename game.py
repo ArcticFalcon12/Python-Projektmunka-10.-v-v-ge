@@ -741,5 +741,5 @@ def a_opcio3():
     print("NARRÁTOR(V.O.)")
     print("A következő találkozásunkig, Isten áldjon!")
 def halal():
-    print("XD de balfasz vagy, próbáld újra")
+    print("A játék számodra véget ért. ")
 intro()
